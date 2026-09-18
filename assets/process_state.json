@@ -1,7 +1,7 @@
 {
   "phase": "FILL_B2",
-  "tank1_level": 38.966202196066575,
-  "tank2_level": 65.56398665712082,
+  "tank1_level": 32.59406221758905,
+  "tank2_level": 71.93612663559836,
   "filter_level": 0,
   "stirrer_rpm": 0.0,
   "pump_rpm": 0.0,
@@ -9,7 +9,7 @@
   "v1_open": true,
   "v2_open": false,
   "mix_ticks": 3,
-  "cycles": 913,
+  "cycles": 914,
   "temperature": 61.61218702703731,
   "pressure": 4.116875260243246,
   "tank_level": 67.37060220861215,
